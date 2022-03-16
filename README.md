@@ -26,3 +26,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Schema-ServiceMetric" height="300" width="400" src="https://github.com/camihshm/ServiceMetric/blob/main/img/schema_servicemetric.png">
 </div>
+
+### KANBAN PROJECT
+https://github.com/users/camihshm/projects/3
