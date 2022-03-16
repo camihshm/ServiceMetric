@@ -21,3 +21,8 @@
 - Software Developer: **Camila Monteiro** 
 - Data Enginner: **Joana Tardelli**
 - Data Analyst: **Fabio Siqueira**
+
+### SCHEMA
+<div style="display: inline_block"><br>
+  <img align="center" alt="Schema-ServiceMetric" height="300" width="400" src="https://github.com/camihshm/ServiceMetric/blob/main/img/schema_servicemetric.png">
+</div>
